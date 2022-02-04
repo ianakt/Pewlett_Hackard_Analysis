@@ -13,3 +13,8 @@ INTO unique_titles
 FROM retirement_titles as rt
 WHERE rt.to_date = ('9999-01-01')
 ORDER BY  rt.emp_no ASC, rt.to_date DESC
+
+SELECT COUNT(ut.title), ut.title
+INTO retiring_titles
+FROM unique_titles AS ut GROUP BY ut.title
+ORDER BY COUNT(ut.title) DESC
