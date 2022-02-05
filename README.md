@@ -19,4 +19,4 @@
    3) Assistant Engineers, and Managers
       have less than 1500 people retiring
         
- ![image](https://user-images.githubusercontent.com/68198233/152654962-f6bc7e0c-688b-4f69-9692-29337b614c48.png)
+![image](https://user-images.githubusercontent.com/68198233/152655870-8eb89f88-c84d-4aec-a96e-d05ddc840aa9.png)
