@@ -1,5 +1,5 @@
 SELECT em.emp_no, em.first_name, em.last_name, ti.title, ti.from_date, ti.to_date
-INTO retirement_tables
+INTO retirement_titles
 FROM employees as em
 RIGHT JOIN titles as ti
 ON (em.emp_no = ti.emp_no)
